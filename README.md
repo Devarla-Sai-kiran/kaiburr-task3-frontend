@@ -54,3 +54,7 @@ This project is a React-based frontend for managing shell command tasks and thei
 
 ### Searching a Task
 ![Run Command](screenshots/search_a_task.jpg)
+
+## Demo Video
+[Watch the demo video on Google Drive](https://drive.google.com/file/d/1Q4evDGCwjxVAtaeE9hfKNZtW3dwKv-3Q/view?usp=drive_link)
+
