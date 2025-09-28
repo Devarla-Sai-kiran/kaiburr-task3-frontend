@@ -3,7 +3,7 @@
 **Author:** Devarla Sai Kiran  
 **Date:** Sunday, September 28, 2025
 
-This repository contains a CI/CD pipeline for automating the build and Docker image creation of the Kaiburr Task 2 frontend application. The pipeline is implemented using GitHub Actions and runs automatically on every push to the main branch.
+This repository contains a CI/CD pipeline for automating the build and Docker image creation of the frontend application. The pipeline is implemented using GitHub Actions and runs automatically on every push to the main branch.
 
 # Pipeline Features
 
