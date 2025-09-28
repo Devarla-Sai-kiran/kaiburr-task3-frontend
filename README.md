@@ -40,8 +40,6 @@ This repository contains a CI/CD pipeline for automating the build and Docker im
 
 ## Screenshots
 
-Below are screenshots demonstrating the CI/CD pipeline in action. Each screenshot includes the current date/time and my name as required.
-
 ### Docker Build
 ![Docker build](screenshots/build_image.png)
 
