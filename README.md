@@ -46,6 +46,9 @@ This repository contains a CI/CD pipeline for automating the build and Docker im
 ### Run Docker Imgae
 ![Run Image](screenshots/run_image.png)
 
+### Accessing Through Browser
+![Accessing Through Browser](screenshots/accessing_in_browser.jpg)
+
 ### Pipeline Run in GitHub Actions
 ![Pipeline 1](screenshots/pipeline_run_1.png)
 
