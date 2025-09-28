@@ -30,17 +30,17 @@ This repository contains a CI/CD pipeline for automating the build and Docker im
     - You can view the pipeline status and logs in the Actions tab of this repository.
 
 # How to Use This Pipeline
-    1. Clone the repository:
-        git clone https://github.com/your-username/kaiburr-task4-cicd.git
-        cd kaiburr-task4-cicd
+    1. Clone the repository: https://github.com/Devarla-Sai-kiran/kaiburr-task4-ci-cd.git
+        
     2. Push changes to the main branch:
         - The pipeline will run automatically.
+        
     3. View results:
         - Go to the Actions tab in GitHub to see build and Docker logs.
 
 ## Screenshots
 
-    Below are screenshots demonstrating the CI/CD pipeline in action. Each screenshot includes the current date/time and my name as required.
+Below are screenshots demonstrating the CI/CD pipeline in action. Each screenshot includes the current date/time and my name as required.
 
 ### Docker Build
 ![Docker build](screenshots/build_image.png)
