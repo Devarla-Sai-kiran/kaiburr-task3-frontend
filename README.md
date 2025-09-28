@@ -40,10 +40,10 @@ This repository contains a CI/CD pipeline for automating the build and Docker im
 
 ## Screenshots
 
-### Docker Build
+### Build Docker Image
 ![Docker build](screenshots/build_image.png)
 
-### Run Imgae
+### Run Docker Imgae
 ![Run Image](screenshots/run_image.png)
 
 ### Pipeline Run in GitHub Actions
